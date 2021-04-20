@@ -1,4 +1,4 @@
-# model_christos
+# Bump attractor model: results of the simulations
 
 Notebooks for the plots of the figure 6, and the supl 10 and 11.  
 
